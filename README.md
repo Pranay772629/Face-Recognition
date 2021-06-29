@@ -11,6 +11,6 @@ Faces folder contains sample dataset of 5 people.
 # Preparing dataset
 1. Download dataset from the link provided above and extract it.
 2. Move the file "data_preparation.py" to the directory "/faces/muct-master" where forders like "jpg-a", "jpg-b",...etc are present.
-3. Choose number of people and change the variable "num_faces" in the python file.
-4. a "Faces" folder will be created in the same format as used in this project.
+3. Choose number of people and change the variable "num_faces" in the python file and run it.
+4. A "Faces" folder will be created in the same format as used in this project.
 5. Change vaiables in Jupyter Notebook file accordingly and run the program.
